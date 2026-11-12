@@ -2,3 +2,6 @@
 *
 !index.html
 !.gitignore
+!img/
+!img/*.jpg
+!img/*.png
