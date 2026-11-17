@@ -1,6 +1,7 @@
 # Publish only the site; keeps the resume (phone number) out of the public repo
 *
 !index.html
+!Aisha_Saleem_CV.pdf
 !.gitignore
 !img/
 !img/*.jpg
